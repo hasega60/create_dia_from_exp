@@ -1,5 +1,5 @@
 ﻿Module GetTransitDiagramDatabase
-    ’ダイヤ情報を作成するためのモジュール
+    ’ダイヤ情報を作成するためのモジュール 　@author: hasega60
     ’
     ’
     Public iSearch As EXPDENGNLib.ExpDiaDB10
