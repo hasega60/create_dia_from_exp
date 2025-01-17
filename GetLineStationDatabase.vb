@@ -1,5 +1,5 @@
 ﻿Module GetLineStationDatabase
-    '駅と路線のリストを作成するためのモジュール
+    '駅と路線のリストを作成するためのモジュール　@author: hasega60
     Private Class Station
         ReadOnly Property station_id As Long
         ReadOnly Property station_code As Long
